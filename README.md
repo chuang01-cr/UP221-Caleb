@@ -4,4 +4,4 @@
 **Concentration**: Transportation Planning and Policy  
 **Hobbies**: Bouldering, pottery, longboarding  
 ## Project Idea
-I want to study which populations have access to bus lines in Los Angeles and whether bus routes are equitably distributed.
+I want to study which populations have access to bus lines (and how many bus lines) in Los Angeles and whether bus routes are equitably distributed.
